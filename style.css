@@ -1,0 +1,170 @@
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	font-family: 'Courgette', cursive;
+	font-size: 25px;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rectangle
+{
+	width: 960px;
+	margin: 20px;
+	text-align: center;
+}
+
+.square
+{
+	width: 50%;
+	float: left;
+}
+
+#logo
+{
+	float: left;
+	font-family: 'Courgette', cursive;
+	font-size: 70px;
+	width: 600px;
+	text-align: left;
+}
+
+#zegar
+{
+	float: left;
+	font-family: 'Courgette', cursive;
+	font-size: 70px;
+	text-align: left;
+}
+
+.tile1
+{
+	text-align: center;
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #3095d3;
+	float: left;
+}
+.tile1:hover
+{
+	background-color: #1084c2;
+}
+
+.tile2
+{
+	text-align: center;
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #666666;
+	float: left;
+}
+
+.tile2:hover
+{
+	background-color: #455555;
+}
+
+.tile3
+{
+	text-align: center;
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #93c748;
+	float: left;
+}
+
+.tile3:hover
+{
+	background-color: #72b637;
+}
+
+.tile4
+{
+	line-height: 150%;
+	font-size: 26px;
+	text-align: center;
+	margin: 10px;
+	padding: 30px; 
+	text-align: center;
+	width: 420px;
+	height: 82px;
+	background-color: #ee5a32;
+}
+
+.tile5
+{
+	text-align: justify;
+	padding: 30px;
+	margin: 10px;
+	width: 418px;
+	height: 244px;
+	background-color: #666666;
+}
+
+.github
+{
+	text-align: center;
+	margin: 10px;
+	width: 146px;
+	height: 142px;
+	background-color: #24292e;
+	float: left;
+}
+
+.github:hover
+{
+	background-color: #03181d;
+}
+
+.fb
+{
+	text-align: center;
+	margin: 10px;
+	width: 146px;
+	height: 142px;
+	background-color: #4668b3;
+	float: left;
+}
+
+.fb:hover
+{
+	background-color: #2557a2;
+}
+.mail
+{
+	text-align: center;
+	margin: 10px;
+	width: 146px;
+	height: 142px;
+	background-color: #fbbc05;
+	float: left;
+}
+
+.mail:hover
+{
+	background-color: #daab04;
+}
+
+a.tilelink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 230px;
+	height: 142px;
+}
+
+a.tilelinkhtml5
+{
+	color: #ffffff;
+	text-decoration: none;
+}
