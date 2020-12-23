@@ -1,0 +1,11 @@
+git clone <address> - cloning repository from remote server into current directory
+
+git status - showing status on current local repository
+
+git add -A - adding all changes tracked and untracked as well
+
+git commit -m "Commit message" - Creating commit based on added changes with message on local repository
+
+git push -u origin <branch_name> - pushing local commits into remote repository branch
+example:
+git push -u origin master
